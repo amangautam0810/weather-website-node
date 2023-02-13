@@ -1,5 +1,3 @@
-console.log('clint side data ')
-
 const weatherForm = document.querySelector('form')
 const search= document.querySelector('input')
 const msg1=document.querySelector('#msg1')
